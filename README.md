@@ -1,5 +1,5 @@
 # Project 10 - Mental Health 
- Project 10 - Mental Health, predicting mental health illness
+ Project 10 - Mental Health, determining the strongest predictors of mental health illness in the workplace using survey data. 
 
 Source data: survey.csv from kaggle.com There are 27 columns for this data: Age, Gender, Country, State and 23 survey items about mental health in the workplace
 
