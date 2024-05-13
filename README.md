@@ -5,8 +5,8 @@ Source data: survey.csv from kaggle.com There are 27 columns for this data: Age,
 
 Project contains
 
-Proposal for data and analysis
-Jupyter Workbook for EDA and modeling
-White Paper of project
-Q & A of project
-Presentation with Voice of project
+1. Proposal for data and analysis
+2. Jupyter Workbook for EDA and modeling
+3. White Paper of project
+4. Q & A of project
+5. Presentation with Voice of project
